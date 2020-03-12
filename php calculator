@@ -10,13 +10,13 @@
 
 <h4>My first PHP page</h4>
 
-//input numbers to calculate
+<!-- input numbers to calculate -->
 <form method="GET">
 	<input type = "text" name = "number1" placeholder = "enter a number">
 	
 	<input type = "text" name = "number2" placeholder = "enter a number">
 
-//choose the operator to use
+<!-- choose the operator to use -->
 	<select name = "operator">
 		<option> none </option>
 		<option> add </option>
